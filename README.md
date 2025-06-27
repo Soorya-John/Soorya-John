@@ -5,7 +5,8 @@
 <h2 align="center">Aspiring Hardware Hacker & Embedded Engineer</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpOXl6Z2J3dHdhMmEwOWV4NjBlamxndXVkNmYweHNoeGhtdGt1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rBT8Xn10K07QzEV7lF/giphy.gif" height="200"/>
+  <img src="<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200">
+" height="200"/>
 </p>
 
 ---
