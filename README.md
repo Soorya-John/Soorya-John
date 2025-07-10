@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Projects
-- 🔹 [Romantic ESP8266 Pager](https://github.com/your-repo-link)
+- 🔹 [cute ESP8266 Pager](https://github.com/your-repo-link)
 - 🔹 [Retro Game Console (SH1106)](https://github.com/your-repo-link)
 - 🔹 [Arduino Nano Dino Console](https://github.com/your-repo-link)
 
