@@ -14,7 +14,7 @@
 ### 🧠 About Me
 - 🎓 BTech in Electronics & Comms KTU
 - 💻 Building ESP32 gadgets, retro consoles, and 3D printable hardware
-- 🛠️ Favorite tools: `PlatformIO`, `KiCAD`, `Fusion360`, `FreeCAD`, `Blender`
+- 🛠️ Favorite tools: `PlatformIO`, `KiCAD`, `Fusion360`, `FreeCAD`, `EasyEDA`,`proteus`,`altium`
 - ✍️ Currently working on: **Raspberry-PI 4 based autonomous drone**
 - ☕ Runs on code, coffee, and chaos
 
