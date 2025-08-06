@@ -18,9 +18,10 @@
 - ✍️ Currently working on: **Raspberry-PI 4 based autonomous drone**
 - ☕ Runs on code, coffee, and chaos
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Soorya-John&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
 ---
+[![GitHub Streak](https://github-readme-streak-stats-sigma-sable.vercel.app?user=Soorya-John)](https://git.io/streak-stats)
+
+===
 
 ### 🛠️ Projects
 - 🔹 [cute ESP8266 Pager](https://github.com/your-repo-link)
