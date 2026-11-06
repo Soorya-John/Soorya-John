@@ -3,7 +3,7 @@
 <p align="center"><strong>Electronics & Communication Engineering Student · Embedded Systems · UAVs</strong></p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" alt="Decorative animated profile banner">
 </p>
 
 ## About
