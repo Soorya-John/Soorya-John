@@ -20,6 +20,7 @@ I'm pursuing a B.Tech in Electronics & Communication Engineering at KTU and buil
 - **[ESP32-S3 BLE Air Mouse](https://github.com/Soorya-John/esp32-s3-ble-air-mouse)** — Native ESP-IDF firmware using an MPU-6050 for pointer movement, two mouse buttons, and a rotary encoder for scrolling.
 - **[Ardu-meter](https://github.com/Soorya-John/Ardu-meter)** - An INA226 power meter displaying voltage, current, and power on an SSD1306 OLED and over serial.
 - **[ESP8266 Wireless Pager](https://github.com/Soorya-John/esp8266-ota)** - A Pushbullet-connected OLED pager with vibration alerts, a message vault, and OTA firmware updates.
+- **[ESP Basic Game Console](https://github.com/Soorya-John/esp-basic-gameconsole-)** - A C/C++ game console with four directional buttons and A/B controls.
 - **[Engineering Portfolio](https://github.com/Soorya-John/soorya-engineering-portfolio)** — A curated project portfolio and engineering notes.
 
 ## Technical Toolkit
