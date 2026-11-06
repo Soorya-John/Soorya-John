@@ -17,6 +17,7 @@ I'm pursuing a B.Tech in Electronics & Communication Engineering at KTU and buil
 - **[AeroScope](https://github.com/Soorya-John/AeroScope)** — A read-only, local-first console for MAVLink telemetry and ArduPilot/PX4 flight-log analysis.
 - **[ESP32-C3 MAVLink Wi-Fi Bridge](https://github.com/Soorya-John/esp32c3-mavlink-wifi-bridge)** — Bridges ArduPilot telemetry to ground-control software over UART and Wi-Fi/UDP.
 - **[ESP32-S3 iBus-to-USB HID Gamepad](https://github.com/Soorya-John/ESP32-HID-gamepad)** — Converts FlySky iBus receiver input into a native USB game controller.
+- **[ESP32-S3 BLE Air Mouse](https://github.com/Soorya-John/esp32-s3-ble-air-mouse)** — Native ESP-IDF firmware using an MPU-6050 for pointer movement, two mouse buttons, and a rotary encoder for scrolling.
 - **[Engineering Portfolio](https://github.com/Soorya-John/soorya-engineering-portfolio)** — A curated project portfolio and engineering notes.
 
 ## Technical Toolkit
